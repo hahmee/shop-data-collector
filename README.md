@@ -1,7 +1,10 @@
 # python_crawler_exe
 쇼핑몰용 사진 다운로드 자동화하기
 
-# 사용법
+### 이미지
+![test](https://user-images.githubusercontent.com/42745666/92079280-970c6400-edfa-11ea-9493-7ce9769fc418.png)
+
+### 사용법
 1. git clone or download zip file
 2. 파이썬 3.7버전 설치
 3. pip 설치(https://pip.pypa.io/en/stable/installing/)
