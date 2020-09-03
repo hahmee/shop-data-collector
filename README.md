@@ -2,7 +2,7 @@
 쇼핑몰용 사진 다운로드 자동화하기
 
 ### 이미지
-![test](https://user-images.githubusercontent.com/42745666/92079280-970c6400-edfa-11ea-9493-7ce9769fc418.png)
+![test2](https://user-images.githubusercontent.com/42745666/92079331-adb2bb00-edfa-11ea-9194-2b167e593ecc.png)
 
 ### 사용법
 1. git clone or download zip file
