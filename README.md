@@ -1,4 +1,4 @@
-# python_crawler_exe
+# shop data collector
 쇼핑몰용 사진 다운로드 자동화하기
 
 ### 이미지
